@@ -7,7 +7,7 @@ npm install
 ```
 --
 
-###Use Your API KEYS
+###Use YOUR API KEYS if you are not testing the app otherwise you will be using MINE
 
 ```xml
 <plugin name="cordova-plugin-googlemaps" spec="https://github.com/phonegap-googlemaps-plugin/cordova-plugin-googlemaps">
